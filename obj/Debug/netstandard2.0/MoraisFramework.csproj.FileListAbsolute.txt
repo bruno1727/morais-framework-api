@@ -1,0 +1,9 @@
+D:\Desenvolvimento Ócio\MoraisFramework\bin\Debug\netstandard2.0\MoraisFramework.deps.json
+D:\Desenvolvimento Ócio\MoraisFramework\bin\Debug\netstandard2.0\MoraisFramework.dll
+D:\Desenvolvimento Ócio\MoraisFramework\obj\Debug\netstandard2.0\MoraisFramework.AssemblyInfoInputs.cache
+D:\Desenvolvimento Ócio\MoraisFramework\obj\Debug\netstandard2.0\MoraisFramework.AssemblyInfo.cs
+D:\Desenvolvimento Ócio\MoraisFramework\obj\Debug\netstandard2.0\MoraisFramework.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento Ócio\MoraisFramework\obj\Debug\netstandard2.0\MoraisFramework.dll
+D:\Desenvolvimento Ócio\MoraisFramework\bin\Debug\netstandard2.0\MoraisFramework.pdb
+D:\Desenvolvimento Ócio\MoraisFramework\obj\Debug\netstandard2.0\MoraisFramework.csprojAssemblyReference.cache
+D:\Desenvolvimento Ócio\MoraisFramework\obj\Debug\netstandard2.0\MoraisFramework.pdb
